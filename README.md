@@ -1,4 +1,4 @@
-#Aplicação Python para geração de barcode
+Aplicação Python para geração de barcode
 
 Aplicação desenvolvida usando **Python 3.11.5** durante o evento NLW ministrado pela Rocketseat.
 
